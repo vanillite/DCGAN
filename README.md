@@ -8,7 +8,7 @@ Disclaimer:
 This project/code uses the GVGAI framework, which was originally developed 
 by the Essex University MCTS group. I do not claim any ownership or credit 
 for the GVGAI framework. The original source can be found at:
-https://github.com/EssexUniversityMCTS/gvgai
+https://github.com/GAIGResearch/GVGAI
 
 ## Dependencies
 Below you can find the versions of software I used. Other versions may also work.
@@ -59,7 +59,7 @@ Note that the encoder only works for the Zelda level generators. It has not been
 
 Original GVGAI framework:
 
-* [GVGAI](https://github.com/EssexUniversityMCTS/gvgai)
+* [GVGAI](https://github.com/GAIGResearch/GVGAI)
 
 Tutorial used for the WGAP-GP:
 
