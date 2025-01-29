@@ -61,6 +61,6 @@ Original GVGAI framework:
 
 * [GVGAI](https://github.com/GAIGResearch/GVGAI)
 
-Tutorial used for the WGAP-GP:
+Tutorial used for the WGAN-GP:
 
 * [Rohan-Paul-AI](https://www.youtube.com/watch?v=8bStI2gxHL4&list=PLxqBkZuBynVSRYUck5dFes9kp9M__A8Ad&index=5)
