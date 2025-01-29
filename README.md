@@ -46,13 +46,13 @@ Note that the encoder only works for the Zelda level generators. It has not been
 
 ## Running the WGAN-GP model
 * Download the WGAN-GP folder
-* Open run_all2.ipynb
+* Open run_all.ipynb
 * Adjust hyperparameters if necessary
 * Set path to datasets
 * Adjust image transformation if necessary
-* Open wgan_gp2.py
+* Open wgan_gp.py
 * Modify the generator and critic architecture to be compatible with your data (unless you work with the same Zelda levels)
-* Run run_all2.ipynb
+* Run run_all.ipynb
 * Training progress can be observed in the notebook output and the WGAN gemerated levels will be saved to the specified location every 50 steps
 
 ## Acknowledgments
