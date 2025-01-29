@@ -1,0 +1,22 @@
+LevelMapping
+    a > wall 
+    b > monsterNormal 
+    c > monsterSlow 
+    d > withkey 
+    e > nokey 
+    f > key 
+    g > goal 
+
+LevelDescription
+aaaaaaaaaaaa
+ab c       a
+a        d a
+a          a
+ae b       a
+a          a
+a          a
+a          a
+a       fg a
+a    aaaaa a
+a        c a
+aaaaaaaaaaaa
